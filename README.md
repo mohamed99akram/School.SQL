@@ -1,1 +1,1 @@
-"# School.SQL" 
+# School.SQL
